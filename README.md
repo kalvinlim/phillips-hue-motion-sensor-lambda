@@ -82,7 +82,7 @@ For the sample utterance, use the phrase "ask **invocation name** for room tempe
 8. Save and move on to the test screen. Make sure the skill testing switch is enabled:
 ![](images/enable_test.png?raw=true)
 
-9. Type your utterance in the test simulator ("ask **invocation name>**for room temperature"). You should get a response like so:
+9. Type your utterance in the test simulator ("ask **invocation name**for room temperature"). You should get a response like so:
 ![](images/test.png?raw=true)
 
 If this is the case, everything should be set up correctly and the skill will be physically available on your Alexa enabled device for testing.
