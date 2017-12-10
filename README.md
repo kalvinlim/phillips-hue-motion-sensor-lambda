@@ -15,3 +15,4 @@ git clone https://github.com/kalvinlim/phillips-hue-motion-sensor-rest-api
 ```
 
 
+[[https://github.com/kalvinlim/phillips-hue-motion-sensor-lambda/blob/master/images/alexa_skills_kit.png]]
