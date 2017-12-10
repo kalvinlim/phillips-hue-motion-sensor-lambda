@@ -16,6 +16,16 @@ See https://github.com/kalvinlim/phillips-hue-motion-sensor-rest-api
 ---
 ### Installation
 
+##### Configuration-
+
+[config.js](https://github.com/kalvinlim/phillips-hue-motion-sensor-lambda/blob/master/config.js)
+
+```
+config.url = 'http://<ip address>/sensor';
+```
+
+where, ip address is the ip of the motion sensor back end (see prerequisites)
+
 ##### Part 1 - Set up the lamda function.  The Alexa skill will be querying the lambda function for the room temperature. 
 
 1. You will need to log into your Amazon Console and create a new Lambda Function (https://console.aws.amazon.com)
@@ -39,10 +49,10 @@ npm install
 ![](images/compress.png?raw=true)
 
 7. upload the zip:
-![](images/compress.png?raw=true)
+![](images/upload.png?raw=true)
 
 8. set the timeout to 10 secs:
-![](images/compress.png?raw=true)
+![](images/timeout.png?raw=true)
 
 9. **Save and copy the Amazon Resource Name (ARN). We will need this for part 2**
 ![](images/arn.png?raw=true)
