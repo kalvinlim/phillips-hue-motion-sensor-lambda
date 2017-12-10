@@ -14,5 +14,4 @@ The middle tier REST API will need to be running locally to expose the Hue Bridg
 git clone https://github.com/kalvinlim/phillips-hue-motion-sensor-rest-api
 ```
 
-
-[[https://github.com/kalvinlim/phillips-hue-motion-sensor-lambda/blob/master/images/alexa_skills_kit.png]]
+![Alt text](images/alexa_skills_kit.png?raw=true "Optional Title")
