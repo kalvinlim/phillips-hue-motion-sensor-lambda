@@ -30,20 +30,21 @@ See https://github.com/kalvinlim/phillips-hue-motion-sensor-rest-api
 ```
 git clone https://github.com/kalvinlim/phillips-hue-motion-sensor-lambda.git
 ```
-5.  Inside the repo, pull its dependencies:
+5.  Inside the repo, pull its node dependencies:
 ```
 npm install
 ```
 
+6. Zip up the files for upload:
 ![](images/compress.png?raw=true)
 
-5. upload the zip:
+7. upload the zip:
 ![](images/compress.png?raw=true)
 
-6. set the timeout to 10 secs:
+8. set the timeout to 10 secs:
 ![](images/compress.png?raw=true)
 
-7. **Save and copy the Amazon Resource Name (ARN). We will need this for part 2**
+9. **Save and copy the Amazon Resource Name (ARN). We will need this for part 2**
 ![](images/arn.png?raw=true)
 
 ##### Part 2- Set up the Alexa skill.
