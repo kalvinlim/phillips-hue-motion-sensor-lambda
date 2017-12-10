@@ -1,0 +1,11 @@
+{
+	"movement": {
+		"value": "12-02 04:49:25 pm"
+	},
+	"temperature": {
+		"value": 69.69200000000001,
+		"symbol": "°F",
+		"unit": "Farenheit.",
+		"alexaSpokenValue": "The current ambient temperature is 70 degrees Farenheit."
+	}
+}

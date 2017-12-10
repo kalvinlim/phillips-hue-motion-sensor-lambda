@@ -1,0 +1,16 @@
+{
+  "name": "olivia-temp-lamda",
+  "version": "1.0.0",
+  "description": "AWS Lamda function for phillips hue motion sensor",
+  "main": "index.js",
+  "author": "Kalvin Lim",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-app": "^4.0.1",
+    "aws-sdk": "^2.77.0",
+    "bluebird": "^3.5.1",
+    "events": "^1.1.1",
+    "q": "^1.5.1",
+    "request-promise": "^4.2.2"
+  }
+}
