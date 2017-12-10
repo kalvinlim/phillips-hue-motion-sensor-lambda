@@ -26,12 +26,16 @@ See https://github.com/kalvinlim/phillips-hue-motion-sensor-rest-api
 3. On the next screen, set the trigger to Alexa Skills Kit:
 ![](images/triggers.png?raw=true)
 
-4. Pull this repository and zip the files:
-![](images/compress.png?raw=true)
-
+4. Pull this repository
 ```
 git clone https://github.com/kalvinlim/phillips-hue-motion-sensor-lambda.git
 ```
+5.  Inside the repo, pull its dependencies:
+```
+npm install
+```
+
+![](images/compress.png?raw=true)
 
 5. upload the zip:
 ![](images/compress.png?raw=true)
