@@ -72,7 +72,7 @@ npm install
 5. In the Skill Builder screen (Beta at the time of writing this readme), add a new intent:
 ![](images/intent.png?raw=true)
 
-For the sample utterance, use the phrase "ask <invocation name> for room temperature", where <invocation name> is the value you had chosen in the step 3.
+For the sample utterance, use the phrase "ask **invocation name** for room temperature", where **invocation name** is the value you had chosen in the step 3.
 
 6. Save the model.
 
