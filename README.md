@@ -12,6 +12,7 @@ This works by exposing the Phillips Hue Bridge 2nd Generation api to AWS Lamda, 
 The middle tier REST API will need to be running locally to expose the Hue Bridge to AWS.  I had mine running on a Raspberry Pi Model 3 and managed the deployment using PM2 (http://pm2.keymetrics.io/)
 
 See https://github.com/kalvinlim/phillips-hue-motion-sensor-rest-api
+And companion AWS Lex Chatbot: https://github.com/kalvinlim/Charlotte
 
 ---
 ### Installation
