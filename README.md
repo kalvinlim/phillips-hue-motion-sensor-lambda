@@ -13,7 +13,7 @@ The middle tier REST API will need to be running locally to expose the Hue Bridg
 
 See https://github.com/kalvinlim/phillips-hue-motion-sensor-rest-api
 
-And companion AWS Lex Chatbot: https://github.com/kalvinlim/Charlotte
+And companion AWS Lex Chatbot (to connect with Slack, Facebook chat, Alexa, etc): https://github.com/kalvinlim/Charlotte
 
 ---
 ### Installation
